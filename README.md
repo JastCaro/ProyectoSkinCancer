@@ -1,6 +1,6 @@
 # PROYECTO SKIN CANCER
 
-![imagen](https://github.com/JastCaro/ProyectoSkinCancer/blob/main/bannerskincancer.jpeg)
+![imagen](https://github.com/JastCaro/ProyectoSkinCancer/blob/main/imageskincancer.jpeg)
 
 *Autores:* Steven Caballero, Gabriel Araujo
 
