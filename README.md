@@ -1,11 +1,16 @@
-# PROYECTO SKIN CANCER 
+# PROYECTO SKIN CANCER
 
 ![imagen](https://github.com/JastCaro/ProyectoSkinCancer/blob/main/bannerskincancer.jpeg)
 
-AUTORES : Steven Caballero, Gabriel Araujo
+*Autores:* Steven Caballero, Gabriel Araujo
 
-El proyecto tiene como objetivo categorizar imágenes de daños cutáneos como benignas o malignas a través de la inteligencia artificial. Se equilibra la base de datos, se disminuyen las imágenes y se emplean modelos supervisados como CNN, DNN y ANN. Además, se utilizan procedimientos no supervisados como KMeans para examinar patrones sin etiquetas. Se emplean métodos como el PCA para visualizar la información y respaldar el análisis. Todo esto con el fin de encontrar el mejor modelo que se ajuste a estos datos.
+*Objetivo:* Categorizar imágenes de daños cutáneos como benignas o malignas mediante modelos de inteligencia artificial.
 
-LINK DATASET (KAGGLE) : https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data
+*Dataset:* [Skin Cancer MNIST: HAM10000 - Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data)
 
-LINK VIDEO (YOUTUBE) : https://www.youtube.com/watch?v=KqDvIbVFtrM
+*Modelos:* CNN, DNN, KMeans, PCA
+
+*Enlaces:*
+- 📁 *Código:* [Notebook en Google Colab](https://colab.research.google.com/drive/1CuU44DJTrLGGGB2dUvY2PGfBiFuKkLvD?usp=sharing)
+- 🎬 *Video:* [YouTube](https://www.youtube.com/watch?v=KqDvIbVFtrM)
+- 💻 *Repositorio:* [GitHub](https://github.com/JastCaro/ProyectoSkinCancer)
